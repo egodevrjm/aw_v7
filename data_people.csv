@@ -1,0 +1,170 @@
+id,display_name,full_name,status,role_tags,primary_circle,first_appearance,alive_in_story,age_in_2026,notes
+alex_wilson,Alex,Alexander David Wilson,fictional_core,"pianist;juilliard_graduate;protagonist",inner_circle,,true,22,"Born June 22 2003; Juilliard BM Piano Performance 2025, degree focused on contemporary, classical and jazz; junior-year RAM exchange 2023-24 continued the cross-genre focus; also plays violin and guitar at advanced level from childhood training; no occupation at story-open — one week after graduation, in grace period; no commercial career yet"
+rosie_walker,Rosie,Rosie Walker Wilson,fictional_core,musician;songwriter;matriarch;label_owner,inner_circle,,true,80,Greatest musical artist alive; 34 Grammys; retired 1980; Alex's legal mother
+homer_wilson,Homer,Sir Homer Wilson KBE,fictional_core,producer;engineer;mentor,inner_circle,,true,81,Greatest record producer/engineer alive; 15 Grammys; knighted 1998; Alex's legal father
+eleanor_vance,Eleanor,Eleanor Margaret Vance,fictional_core,ceo;business_executive;advisor,inner_circle,,true,52,CEO Walker Holdings ~$18-20B; raised as family niece; Harvard MBA; ex-Goldman
+tommy_crawford,Tommy,Thomas James Crawford,fictional_core,contractor;best_friend,inner_circle,,true,21,Alex's best friend since kindergarten; Sayre School K-12; Crawford Construction; Woodford County
+david_wilson,David,David James Wilson,fictional_supporting,musician;deceased,family,,false,,"Rosie's biological son; Alex's biological father; died overdose 2008 when Alex was 5"
+sarah_dawson,Sarah,Lady Sarah Anne Dawson Wilson,fictional_supporting,aristocrat;deceased,family,,false,,"Alex's biological mother; 3rd child of Earl of Fletching; died in childbirth 2003"
+maria_santos,Maria,Maria Santos,fictional_supporting,chef,nashville_backbone,,true,45,Compound chef; French Laundry/Per Se/CIA trained; known Alex since childhood
+dale_shackleford,Dale,Dale Shackleford,fictional_supporting,estate_manager,nashville_backbone,,true,58,Compound estate manager; Woodford County family; lives on property
+loretta_mae,Loretta,Loretta Mae,fictional_supporting,household_manager;personal_assistant,nashville_backbone,,true,62,Compound household manager and Rosie/Homer PA since 1990s
+kevin_marsh,Kevin,Kevin Marsh,fictional_supporting,close_protection_officer;security,inner_circle,,true,34,Alex's CPO; ex-USSS Presidential Protective Division; 2 years with Alex
+nadia_hassani,Nadia,Nadia Hassani,fictional_supporting,executive_assistant;operations,inner_circle,,true,28,Alex's EA; London-based; hired from Quintessentially; manages all logistics
+sophie_kalu,Sophie,Sophie Kalu,fictional_supporting,personal_assistant,inner_circle,,true,25,Alex's PA; Nigerian-British; hired early 2025 under Nadia
+james_latham,James,James Latham,fictional_supporting,management;diplomat;al_x_head,industry,,true,48,Head of AL.X management division; British; ex-FCDO diplomat; Scooter Braun blacklist enforcer
+priya_chandra,Priya,Priya Chandra,fictional_supporting,management;al_x_coordinator,industry,,true,32,AL.X senior coordinator; reports to Latham
+oliver_wren,Oliver,Oliver Wren,fictional_supporting,management;al_x_analyst,industry,,true,26,AL.X analyst; youngest on the team
+graham_forsyth,Graham,Graham Forsyth,fictional_supporting,cfo;finance,industry,,true,54,Walker Holdings CFO; Deloitte background; Eleanor's right hand
+diane_prescott,Diane,Diane Prescott,fictional_supporting,general_counsel;lawyer,industry,,true,47,Walker Holdings General Counsel; entertainment law; estate planning
+peter_aldridge,Peter,Peter Aldridge,fictional_supporting,investment_manager;finance,industry,,true,39,Walker Holdings investments director; Bridgewater background
+cody_ashford,Cody,Cody Ashford,fictional_supporting,sayre_boy;friend,inner_circle,,true,22,Sayre Boys core; all-caps energy; catalytic personality; Woodford County
+jake_patterson,Jake,Jake Patterson,fictional_supporting,sayre_boy;friend,inner_circle,,true,22,Sayre Boys core; minimal communication style; horse/land expertise; logistics-first
+danny_harlan,Danny,Danny Harlan,fictional_supporting,sayre_boy;friend,inner_circle,,true,22,Sayre Boys core; dry understated irony; arrives late with the perfect line
+jim_crawford,Jim,Jim Crawford,fictional_supporting,contractor;businessman;family_friend,family,,true,52,Tommy's father; owns Crawford Construction (~400 employees); father figure to Alex
+darlene_crawford,Darlene,Darlene Crawford,fictional_supporting,teacher;family_friend,family,,true,50,Tommy's mother; school teacher 25 years; fed Alex approximately 10000 meals
+kayla_crawford,Kayla,Kayla Crawford,fictional_supporting,student;family_friend,family,,true,19,Tommy's younger sister; long-running crush on Alex (mutual joke)
+richard_dawson,The Earl,Richard Dawson 7th Earl of Fletching,real,aristocrat;businessman,family,,true,79,"Alex's maternal grandfather; Eton/Oxford; City finance background; Fletching Park East Sussex; half-Italian-royal by birth — mother was HRH Princess Isabella of Savoy-Aosta (1918-2005); succeeded to earldom on father's death in 1988; fluent Italian through his mother"
+margaret_dawson,The Countess,Margaret Whitelock Dawson Countess of Fletching,real,aristocrat,family,,true,77,"Alex's maternal grandmother; born 1949 as Margaret Whitelock; Cheltenham Ladies' College; holds family emotional architecture; half-Greek-royal by birth — mother was HRH Princess Anastasia of Greece and Denmark (1924-2001); father was General Sir Edward Whitelock; married Richard Dawson 1971; became Countess of Fletching on his accession 1988; fluent Greek and French through her mother"
+james_dawson,James,James Dawson Viscount Hartfield,real,aristocrat;private_equity,family,,true,56,Eldest Dawson child; heir to earldom; Hartfield Capital London; Jonathan's father
+jonathan_dawson,Jonathan,The Honourable Jonathan Dawson,real,aristocrat;student;london_lot,london_lot,,true,23,Alex's cousin; Westminster School then Oxford (PPE); works at father's firm; Dawson Cousins chat initiator
+lucas_ashby,Lucas,Lucas Ashby,real,student;architect;london_lot,london_lot,,true,22,Alex's cousin; Caroline's son; Bartlett/UCL architecture; Notting Hill; warmest Dawson connection
+beatrice_dawson,Beatrice,Beatrice Dawson,real,student;aristocrat,family,,true,20,Jonathan's sister; Edinburgh counterpoint; sardonic/direct
+lady_caroline_ashby,Caroline,Lady Caroline Ashby née Dawson,real,aristocrat,family,,true,47,Sarah's closest sibling; married Henry Ashby; Lucas's mother; quietly reparative with Alex
+henry_ashby,Henry,Henry Ashby,real,banker;private_equity,family,,true,50,Caroline's husband; banker then private equity; Lucas's father
+elton_john,Elton,Sir Elton John CBE,real,musician;godparent;circle_member,inner_circle,,true,78,Alex's godfather; Rosie/Homer decades-long friend; Phoenix Hollow Circle; Zachary & Elijah's father
+chris_martin,Chris,Chris Martin,real,musician;godparent;circle_member,inner_circle,,true,48,Alex's godfather; Apple & Moses's father; low-drama practical presence; Phoenix Hollow Circle
+donatella_versace,Donatella,Donatella Versace,real,fashion_designer;godparent;circle_member,inner_circle,,true,70,Alex's godmother; Versace house; high-conviction aesthetic authority; calls Alex "Alexander"
+stella_mccartney,Stella,Stella McCartney,real,fashion_designer;godparent;circle_member,inner_circle,,true,54,Alex's godmother; McCartney lineage; values-forward fashion; London-based style advisor
+apple_martin,Apple,Apple Blythe Alison Martin,real,legacy_kid;friend,summer_house,,true,21,Alex's god-sister; sibling-close; NOT romantic; born May 14 2004; Chris Martin/Gwyneth Paltrow's daughter
+moses_martin,Moses,Moses Bruce Anthony Martin,real,legacy_kid,family,,true,19,Chris Martin/Gwyneth Paltrow's son; Alex's god-sibling; born April 8 2006
+zachary_furnish_john,Zachary,Zachary Jackson Levon Furnish-John,real,legacy_kid,family,,true,15,Elton's son; Alex's god-sibling; born Dec 25 2010
+elijah_furnish_john,Elijah,Elijah Joseph Daniel Furnish-John,real,legacy_kid,family,,true,14,Elton's son; Alex's god-sibling; born Jan 11 2013
+beyonce,Beyoncé,Beyoncé Giselle Knowles-Carter,real,musician;circle_member,phoenix_hollow,,true,44,Phoenix Hollow Inner Circle; strategy + craft authority; sparse weighted presence
+adele,Adele,Adele Laurie Blue Adkins,real,musician;circle_member,phoenix_hollow,,true,37,Phoenix Hollow Inner Circle; blunt warmth; wrote half of 25 at compound
+lady_gaga,Gaga,Lady Gaga,real,musician;actress;circle_member,phoenix_hollow,,true,39,Phoenix Hollow Inner Circle; conceptual but concrete; story-first framework language
+taylor_swift,Taylor,Taylor Swift,real,musician;circle_member,phoenix_hollow,,true,36,Phoenix Hollow Inner Circle; 2019 masters conversation with Rosie; ghost/lurker in Summer House chat
+stevie_nicks,Stevie,Stevie Nicks,real,musician;circle_member;mentor,phoenix_hollow,,true,77,Phoenix Hollow Inner Circle; de facto aunt/godmother; image-rich reflective presence; annual compound residency
+dolly_parton,Dolly,Dolly Rebecca Parton,real,musician;songwriter;circle_member,phoenix_hollow,,true,80,Phoenix Hollow Inner Circle; de facto aunt; warmth + blunt practical counsel; Nashville anchor
+paul_mccartney,Paul,Sir Paul McCartney,real,musician;circle_member,phoenix_hollow,,true,83,Phoenix Hollow Inner Circle; long-view musical benchmark; quiet validator; Stella's father
+joni_mitchell,Joni,Joni Mitchell,real,musician;songwriter;circle_member,phoenix_hollow,,true,82,Phoenix Hollow Inner Circle; high-rigor artistic truth voice; Rosie's peer
+brandi_carlile,Brandi,Brandi Carlile,real,musician;mentor;circle_member,phoenix_hollow,,true,44,Phoenix Hollow Inner Circle; contemporary bridge generation; annual compound residency; like older sister to Alex
+david_gilmour,David G,David Gilmour,real,musician;producer;circle_member,phoenix_hollow,,true,79,Homer's closest friend; Pink Floyd; craft-first minimal talker; periodic compound/studio engagement
+bruce_springsteen,Bruce,Bruce Springsteen,real,musician;circle_member,phoenix_hollow,,true,76,Phoenix Hollow World Stage; compound presence; The Boss
+bono,Bono,Paul David Hewson,real,musician;activist;circle_member,phoenix_hollow,,true,65,Phoenix Hollow World Stage; U2; compound visitor
+the_edge,The Edge,David Howell Evans,real,musician;circle_member,phoenix_hollow,,true,64,Phoenix Hollow World Stage; U2; compound visitor
+dave_grohl,Dave,Dave Grohl,real,musician;circle_member,phoenix_hollow,,true,56,Phoenix Hollow World Stage; Foo Fighters/Nirvana; compound visitor
+jack_white,Jack,Jack White,real,musician;producer;circle_member,phoenix_hollow,,true,50,Phoenix Hollow World Stage; White Stripes; compound residency visits
+alicia_keys,Alicia,Alicia Keys,real,musician;circle_member,phoenix_hollow,,true,44,Phoenix Hollow World Stage; compound writing/recording visits; Homer-produced album
+billie_eilish,Billie,Billie Eilish Pirate Baird O'Connell,real,musician;circle_member,phoenix_hollow,,true,24,Phoenix Hollow World Stage; compound visits; contemporary generation crossover
+harry_styles,Harry,Harry Edward Styles,real,musician;model;circle_member,phoenix_hollow,,true,31,Phoenix Hollow World Stage and Summer House; British fashion/music crossover
+dua_lipa,Dua,Dua Lipa,real,musician;circle_member,phoenix_hollow,,true,30,Phoenix Hollow World Stage and Summer House; British pop anchor
+lana_del_rey,Lana,Elizabeth Woolridge Grant,real,musician;circle_member,phoenix_hollow,,true,40,Phoenix Hollow World Stage; melancholic art pop; compound presence
+meryl_streep,Meryl,Mary Louise Streep,real,actress;circle_member,phoenix_hollow,,true,76,Phoenix Hollow World Stage; Hollywood royalty; compound visitor
+cate_blanchett,Cate,Catherine Élise Blanchett,real,actress;circle_member,phoenix_hollow,,true,56,Phoenix Hollow World Stage; Australian acting royalty; compound visitor
+tom_hanks,Tom,Thomas Jeffrey Hanks,real,actor;circle_member,phoenix_hollow,,true,69,Phoenix Hollow World Stage; compound visitor
+george_clooney,George,George Timothy Clooney,real,actor;filmmaker;circle_member,phoenix_hollow,,true,64,Phoenix Hollow World Stage; compound visitor
+amal_clooney,Amal,Amal Ramzi Clooney,real,lawyer;activist;circle_member,phoenix_hollow,,true,47,Phoenix Hollow World Stage; George's wife; compound visitor
+florence_pugh,Florence,Florence Pugh,real,actress;circle_member,phoenix_hollow,,true,30,Phoenix Hollow World Stage and Summer House; British actress; active London social circle
+anya_taylor_joy,Anya,Anya Taylor-Joy,real,actress;circle_member,phoenix_hollow,,true,29,Phoenix Hollow World Stage and Summer House; British-Argentine actress
+sofia_coppola,Sofia,Sofia Carmina Coppola,real,filmmaker;circle_member,phoenix_hollow,,true,52,Phoenix Hollow World Stage; filmmaker; compound visitor
+greta_gerwig,Greta,Greta Celeste Gerwig,real,filmmaker;circle_member,phoenix_hollow,,true,42,Phoenix Hollow World Stage; filmmaker; compound visitor
+wes_anderson,Wes,Wesley Wales Anderson,real,filmmaker;circle_member,phoenix_hollow,,true,56,Phoenix Hollow World Stage; filmmaker; compound visitor
+martin_scorsese,Marty,Martin Charles Scorsese,real,filmmaker;circle_member,phoenix_hollow,,true,83,Phoenix Hollow World Stage; filmmaker; compound visitor
+steven_spielberg,Steven,Steven Allan Spielberg,real,filmmaker;circle_member,phoenix_hollow,,true,78,Phoenix Hollow World Stage; filmmaker; compound visitor
+annie_leibovitz,Annie,Anna-Lou Leibovitz,real,photographer;circle_member,phoenix_hollow,,true,75,Phoenix Hollow Fashion/Visual; Vogue photographer; shot Alex's debut Vogue cover Sept 2025
+edward_enninful,Edward,Edward Enninful,real,fashion_editor;circle_member,phoenix_hollow,,true,52,Phoenix Hollow Fashion/Visual; former British Vogue EIC; fashion connections
+alessandro_michele,Alessandro,Alessandro Michele,real,fashion_designer;circle_member,phoenix_hollow,,true,52,Phoenix Hollow Fashion/Visual; former Gucci creative director; compound visitor
+barack_obama,Barack,Barack Hussein Obama II,real,politician;circle_member,phoenix_hollow,,true,64,Phoenix Hollow Public Figures; White House letter in Homer's library; low-frequency high-impact chat presence
+michelle_obama,Michelle,Michelle LaVaughn Obama,real,activist;author;circle_member,phoenix_hollow,,true,61,Phoenix Hollow Public Figures; compound visitor alongside Barack
+lenny_kravitz,Lenny,Leonard Albert Kravitz,real,musician;circle_member,phoenix_hollow,,true,61,Phoenix Hollow Public Figures; Rosie connection; Apple Martin's godfather
+gwyneth_paltrow,Gwyneth,Gwyneth Kate Paltrow,real,actress;entrepreneur;circle_member,phoenix_hollow,,true,53,Phoenix Hollow Public Figures; Apple's mother; Chris Martin ex; compound visitor
+lila_moss,Lila,Lila Moss Hack,real,model;legacy_kid,summer_house,,true,23,Kate Moss's daughter; Phoenix Hollow Legacy Core and Summer House; fashion world; Sardinia regular
+rocco_ritchie,Rocco,Rocco Ritchie,real,artist;legacy_kid,summer_house,,true,25,Madonna/Guy Ritchie's son; Phoenix Hollow Legacy Core; has own summer circuit
+iris_law,Iris,Iris Law,real,model;photographer;legacy_kid,summer_house,,true,24,Jude Law's daughter; Phoenix Hollow Legacy Core; creative/art world; summer circuit
+lady_amelia_windsor,Amelia,Lady Amelia Windsor,real,young_royal;model,summer_house,,true,30,Duke of Kent's granddaughter; Phoenix Hollow Legacy Core and Summer House; aristocratic fashion
+samuel_chatto,Samuel,Samuel Chatto,real,young_royal;artist,summer_house,,true,28,Princess Margaret's grandson; Phoenix Hollow Legacy Core and Summer House; low-key artist
+arthur_chatto,Arthur,Arthur Chatto,real,young_royal,summer_house,,true,26,Princess Margaret's grandson; Phoenix Hollow Legacy Core and Summer House
+chad_smith,Chad,Chad Smith,real,musician;drummer;nashville_backbone,nashville_backbone,,true,63,Red Hot Chili Peppers drummer; Phoenix Hollow Nashville Backbone; compound session work
+steve_jordan,Steve,Steve Jordan,real,musician;drummer;nashville_backbone,nashville_backbone,,true,69,Session drummer; Phoenix Hollow Nashville Backbone; Rolling Stones touring drummer
+pino_palladino,Pino,Pino Palladino,real,musician;bassist;nashville_backbone,nashville_backbone,,true,65,Session bassist; Phoenix Hollow Nashville Backbone; compound session work
+paul_franklin,Paul,Paul Franklin,real,musician;steel_guitar;nashville_backbone,nashville_backbone,,true,68,Session steel guitar; Phoenix Hollow Nashville Backbone; Nashville institution
+freddie_ashworth,Freddie,Frederick James Ashworth,fictional_supporting,aristocrat;friend;london_lot,london_lot,,true,22,London Lot execution engine; Westminster School peer; suggests plan and converts vague interest to attendance
+jess_okonkwo,Jess,Jessica Okonkwo,fictional_supporting,musician;friend;london_lot,london_lot,,true,22,London Lot music discovery voice; RAM-adjacent curation; Wigmore-adjacent taste
+cosima_hicks,Cosima,Cosima Hicks,fictional_supporting,artist;sculptor;friend;london_lot,london_lot,,true,23,Sculptor; created Sound & Bone piece for Alex; art/culture selector; dry tone; made cyanotype/piano-wire sculpture for Alex
+hugo_manners,Hugo,Hugo Manners,fictional_supporting,aristocrat;friend;london_lot,london_lot,,true,23,London Lot country/polo lane activator; Guards Polo Club world; cricket/sport focus
+raye,Raye,Rachel Agatha Keen,real,musician;london_lot,london_lot,,true,27,South London R&B/pop; London Lot and Summer House; part of British music scene
+stormzy,Stormzy,Michael Ebenazer Kwadjo Omari Jr Owuo,real,musician;london_lot,london_lot,,true,31,Grime pioneer; London Lot and Summer House; British Power Anchor
+central_cee,Central Cee,Oakley Caesar-Su,real,musician;london_lot,london_lot,,true,26,UK rap; London Lot and Summer House; British Power Anchor
+tom_holland,Tom,Thomas Stanley Holland,real,actor;london_lot,london_lot,,true,29,Spider-Man actor; London Lot and Summer House; British Power Anchor
+paul_mescal,Paul M,Paul Mescal,real,actor;london_lot,summer_house,,true,30,Irish actor; Summer House British Power Anchor; London social world overlap
+maya_hawke,Maya,Maya Ray Thurman-Hawke,real,actress;musician;legacy_kid,summer_house,,true,27,Uma Thurman/Ethan Hawke's daughter; Summer House Legacy; Hudson Valley LA crossover
+barry_keoghan,Barry,Barry Keoghan,real,actor;london_lot,summer_house,,true,32,Irish actor; Summer House NY/London extras; Dublin-London-LA crossover
+lennon_gallagher,Lennon,Lennon Francis Gallagher,real,model;legacy_kid,summer_house,,true,25,Liam Gallagher's son; Summer House Legacy; fashion and music world
+anais_gallagher,Anaïs,Anaïs Gallagher,real,model;legacy_kid,summer_house,,true,24,Noel Gallagher's daughter; Summer House Legacy; fashion world
+damian_hurley,Damian,Damian Charles Hurley,real,model;actor;legacy_kid,summer_house,,true,23,Elizabeth Hurley's son; Summer House Legacy; British model/actor
+nora_yoon,Nora,Nora Yoon,fictional_supporting,musician;pianist;friend;juilliard,ny_lot,,true,22,Juilliard peer; real friend; "that passage is wrong"; Korean-American; direct musical honesty
+marcus_delacroix,Marcus,Marcus Delacroix,fictional_supporting,musician;bassist;friend;juilliard,ny_lot,,true,23,Juilliard peer; NYC nightlife launch energy; all-caps summons; "9PM. NOT OPTIONAL."
+derrick_washington,Derrick,Derrick Washington,fictional_supporting,musician;producer;friend;juilliard,ny_lot,,true,24,Juilliard peer; late-night studio specialist; appears after 10pm; "studio. midnight."
+sasha_volkov,Sasha,Alexander Volkov,fictional_supporting,musician;violinist;friend;juilliard,ny_lot,,true,22,Juilliard peer; Russian-American violinist; concise one-word interest signals
+jin_park,Jin,Jin-Ho Park,fictional_supporting,musician;cellist;friend;juilliard,ny_lot,,true,23,Juilliard peer; Korean-American cellist; terse progress updates
+henry_cabot,Henry,Henry Cabot,fictional_supporting,socialite;friend;ny_lot,ny_lot,,true,24,NYC social scene; table access and venue leverage; connects Juilliard to downtown
+sam_okafor,Sam,Samuel Okafor,fictional_supporting,musician;friend;ny_lot,ny_lot,,true,23,Bridge node between Juilliard and NYC club ecosystem; Nigerian-American
+dr_catherine_marlowe,Dr. Marlowe,Dr. Catherine Marlowe,fictional_supporting,professor;piano_faculty;juilliard,industry,,true,52,Juilliard piano faculty; Alex's primary professor; "Best undergraduate recital in twenty years"; "Again."
+dr_amara_osei,Dr. Osei,Dr. Amara Osei,fictional_supporting,professor;voice_faculty;juilliard,industry,,true,48,Juilliard voice faculty; "support the breath"; pushing Alex toward voice training
+dr_james_whitfield,Dr. Whitfield,Dr. James Whitfield,fictional_supporting,professor;composition_faculty;juilliard,industry,,true,55,Juilliard composition/theory faculty; "structurally this turns too soon"
+timothee_chalamet,Timothée,Timothée Hal Chalamet,real,actor;musician,ny_lot,,true,30,French-American actor; NY Lot and Summer House; Juilliard-adjacent; actually plays piano
+zoe_kravitz,Zoë,Zoë Isabella Kravitz,real,actress;model;legacy_kid,ny_lot,,true,36,Lenny Kravitz's daughter; NY Lot; Zero Bond crowd; Legacy Admissions
+bella_hadid,Bella,Isabella Khair Hadid,real,model;legacy_kid,ny_lot,,true,29,Model; NY Lot; fashion world crossover; Legacy Admissions adjacent
+gigi_hadid,Gigi,Jelena Noura Hadid,real,model;legacy_kid,ny_lot,,true,30,Model; NY Lot; fashion world crossover; Legacy Admissions adjacent
+kaia_gerber,Kaia,Kaia Jordan Gerber,real,model;actress;legacy_kid,ny_lot,,true,24,Cindy Crawford's daughter; LA Lot and Summer House; Legacy Admissions; friendly with Alex
+jacob_elordi,Jacob,Jacob Elordi,real,actor,summer_house,,true,28,Australian actor; Summer House core voice; minimal post maximal effect
+emma_chamberlain,Emma,Emma Frances Chamberlain,real,content_creator;entrepreneur,summer_house,,true,23,Content creator; Summer House high-volume chaos accelerator; spiral posting style
+jenna_ortega,Jenna,Jenna Marie Ortega,real,actress,summer_house,,true,23,Actress; Summer House low-frequency impact; single-line dry hits; rare commitments
+sabrina_carpenter,Sabrina,Sabrina Annlynn Carpenter,real,musician;actress,summer_house,,true,26,Pop musician; Summer House sharp thread closer; fast last-word tendency
+zendaya,Zendaya,Zendaya Maree Stoermer Coleman,real,actress;musician,summer_house,,true,29,Summer House ghost/lurker; high-signal low-frequency
+olivia_rodrigo,Olivia,Olivia Isabel Rodrigo,real,musician,summer_house,,true,22,Summer House seasonal tourist; pop songwriter
+ice_spice,Ice Spice,Isis Gaston,real,musician,summer_house,,true,22,Bronx rapper; Summer House seasonal tourist
+jack_schlossberg,Jack,Jack Schlossberg,real,kennedy_family;lawyer,summer_house,,true,33,JFK's grandson; Summer House seasonal tourist; Legacy Admissions
+jeremy_allen_white,Jeremy,Jeremy Allen White,real,actor,summer_house,,true,33,Actor; Summer House seasonal tourist; London/NYC crossover
+austin_butler,Austin,Austin Robert Butler,real,actor,summer_house,,true,33,Actor; Summer House seasonal tourist
+naomi_campbell,Naomi,Naomi Elaine Campbell,real,model;activist,summer_house,,true,55,Supermodel; Summer House fashion week bridge; Glastonbury presence
+vittoria_ceretti,Vittoria,Vittoria Ceretti,real,model,satellite,,true,27,Italian supermodel; confirmed hookup July/Aug 2025 Sardinia; Daily Mail confirmation
+taylor_russell,Taylor R,Taylor Russell,real,actress,satellite,,true,29,Canadian actress; one_photo hookup evidence Carnegie Hall Oct 2025; Page Six
+hunter_schafer,Hunter,Hunter Schafer,real,model;actress,satellite,,true,25,Model/actress; strongly suspected hookup Paris FW Sept 2025; DeuxMoi sourced
+addison_rae,Addison,Addison Rae Easterling,real,content_creator;actress,satellite,,true,24,Content creator/actress; strongly suspected hookup NYC-Paris FW Sept 2025; DeuxMoi sourced
+alix_earle,Alix,Alix Earle,real,content_creator,satellite,,true,24,Content creator; rumored hookup Ibiza July 2025; DeuxMoi sourced
+dove_cameron,Dove,Dove Olivia Cameron,real,actress;musician,satellite,,true,29,Actress/musician; rumored hookup London June 2025; DeuxMoi sourced
+tommaso_corsini,Tommaso,Tommaso Corsini,fictional_supporting,architect;socialite;friend,la_terrazza,,true,26,La Terrazza anchor; Milan/Sardinia; knows Porto Cervo since childhood; calm planner
+edo_ferretti,Edo,Edoardo Ferretti,fictional_supporting,dj;promoter;friend,la_terrazza,,true,27,Chaos anchor; DJ/promoter; Rome/Ibiza/everywhere; Sardinia party catalyst
+camille_aubert,Camille,Camille Aubert,fictional_supporting,gallerist;friend,la_terrazza,,true,25,Parisian gallerist; art world anchor; connects Alex to contemporary art circuit
+lucia_montero,Lucía,Lucía Montero,fictional_supporting,student;friend,la_terrazza,,true,24,Madrid/London; sharp and political; brings critical perspective to summer circuit
+felix_arnoult,Félix,Félix Arnoult,fictional_supporting,wine_heir;friend,la_terrazza,,true,28,French wine family; brings wine to everything; Paris/NYC crossover
+giulia_agnelli,Giulia,Giulia Agnelli,fictional_supporting,socialite;fashion;friend,la_terrazza,,true,26,Milan/Italian old money; fashion world; drops in and out; Tommaso-connected
+prince_achille_bourbon,Achille,Prince Achille of Bourbon-Two Sicilies,real,royalty;finance,la_terrazza,,true,26,Italian royal house; Sardinia/Capri/Amalfi summer circuit; Tommaso-connected
+olympia_of_greece,Olympia,Princess Olympia of Greece,real,royalty;model,summer_house,,true,29,Greek royal; London/New York; bridges London Lot and La Terrazza; fashion world
+pierre_casiraghi,Pierre,Pierre Casiraghi,real,royalty,la_terrazza,,true,37,Grace Kelly's grandson; Monaco; sailing; overlaps Mediterranean summer circuit
+countess_cosima_von_bulow,Cosima V,Countess Cosima von Bülow,fictional_supporting,aristocrat;art_world,la_terrazza,,true,27,Austrian-Italian; Vienna/Milan; art/fashion circuit; connects Central European dimension
+rick_rubin,Rick,Frederick Jay Rubin,real,producer;executive,industry,,true,61,Legendary producer; visits Homer annually; compound connection
+brian_eno,Brian,Brian Peter George St John le Baptiste de la Salle Eno,real,producer;musician,industry,,true,77,Producer/ambient pioneer; corresponds with Homer on sound theory; letters relationship
+daniel_lanois,Daniel,Daniel Lanois,real,producer,industry,,true,73,Producer; ongoing contact with Homer; U2/Dylan records
+t_bone_burnett,T Bone,Joseph Henry Burnett,real,producer;musician,industry,,true,76,Producer; ongoing contact with Homer; Nashville/Americana world
+irving_azoff,Irving,Irving Azoff,real,manager;executive,industry,,true,76,Industry manager; calling Eleanor about Alex post-graduation; Eagles/Eagles management
+princess_maria_olympia,Maria-Olympia,Princess Maria-Olympia of Greece and Denmark,real,royalty;model,summer_house,,true,29,Greek/Danish royal; Summer House Young Royals tier; fashion world
+princess_alexia,Alexia,Princess Alexia of the Netherlands,real,royalty,summer_house,,true,19,Dutch royal family; Summer House Young Royals tier
+achileas_of_greece,Achileas,Prince Achileas-Andreas of Greece and Denmark,real,royalty,la_terrazza,,true,24,Greek/Danish royal; Summer House Young Royals; Mediterranean circuit; Greco-British royal ties
+kate_moss,Kate,Katherine Ann Moss,real,model;circle_member,phoenix_hollow,,true,51,Supermodel; Lila's mother; Phoenix Hollow legacy parent tier
+madonna,Madonna,Madonna Louise Ciccone,real,musician;circle_member,phoenix_hollow,,true,67,Pop icon; Phoenix Hollow legacy parent tier; Rocco's mother
+jude_law,Jude,David Jude Heyworth Law,real,actor;circle_member,phoenix_hollow,,true,52,Actor; Phoenix Hollow legacy parent tier; Iris's father
+tyrone_lebon,Tyrone,Tyrone Lebon,real,photographer;editorial;fashion_adjacent,summer_house,,true,37,British editorial photographer; Dior Men/Miu Miu/Bottega clients; London and Milan circuit
+cass_bird,Cass,Cass Bird,real,photographer;editorial;portrait,summer_house,,true,46,American portrait/editorial photographer; Vogue/GQ/Dior/Saint Laurent clients; NY and European circuit
+morgan_maassen,Morgan,Morgan Maassen,real,photographer;surf;lifestyle,summer_house,,true,32,Surf and lifestyle photographer/filmmaker; Vogue crossover; seasonal Ibiza/Sardinia presence
+campbell_addy,Campbell,Campbell Addy,real,photographer;editorial;filmmaker,summer_house,,true,31,British-Ghanaian photographer and filmmaker; Valentino/Bottega/Burberry clients; London crossover
+ibrahim_kamara,Ibrahim,Ibrahim Kamara,real,creative_director;editorial;fashion,summer_house,,true,34,Sierra Leonean-British creative director; Editor-in-Chief Dazed; Prada/Valentino collaborations
+lotta_volkova,Lotta,Lotta Volkova,real,stylist;creative_director,summer_house,,true,42,Russian-born stylist/creative director; independent; Paris-based; European summer circuit
+dovile_drizyte,Dovile,Dovile Drizyte,real,casting_director;fashion_industry,summer_house,,true,38,Lithuanian casting director; Prada/Miu Miu/McQueen campaigns; invisible infrastructure
+etienne_moreau,Étienne,Étienne Moreau,fictional_supporting,chef,hatfield_nyc,,true,42,Executive Chef at The Stave NYC (Tribeca); French-trained (Le Cordon Bleu; staged at Pierre Gagnaire Paris; CDC at Daniel before Hatfield recruited him 2022); runs The Stave NYC kitchen and oversees private dining at West 71st when Alex hosts; quiet professional; Alex knows him well
+princess_isabella_savoy,Princess Isabella,HRH Princess Isabella Maria Teresa of Savoy-Aosta,fictional_supporting,royal;deceased,family,,false,,"Alex's maternal great-grandmother (Richard Dawson's mother); Italian royal, cadet branch of House of Savoy-Aosta; born Turin 1918; came to London during WWII; married Archibald Dawson 6th Earl of Fletching 1945; died 2005; gave the Fletching line direct Italian royal descent"
+prince_ludovico_savoy,Prince Ludovico,HRH Prince Ludovico of Savoy-Aosta,fictional_supporting,royal;deceased,family,,false,,"Alex's maternal great-great-grandfather; fictional cadet of Savoy-Aosta branch; father of Princess Isabella; born 1888 died 1960; remained in Italy through the house's deposition 1946"
+princess_anastasia_greece,Princess Anastasia,HRH Princess Anastasia Sophia of Greece and Denmark,fictional_supporting,royal;deceased,family,,false,,"Alex's maternal great-grandmother (Margaret Dawson's mother); Greek royal, cadet branch of House of Glücksburg; born Athens 1924; evacuated to London 1941 after German invasion of Greece; married General Sir Edward Whitelock 1948; died 2001; gave Margaret direct Greek royal descent and connects the family to the Mountbatten/Windsor cousin web via Prince Philip's Greek-royal lineage"
+edward_whitelock,Sir Edward,General Sir Edward Whitelock GCB MC,fictional_supporting,military;deceased,family,,false,,"Alex's maternal great-grandfather (Margaret Dawson's father); British Army officer; served North Africa and Italy WWII; knighted 1962; married Princess Anastasia of Greece and Denmark 1948; died 1998; father of Margaret Whitelock who became Countess of Fletching on marriage to 7th Earl"

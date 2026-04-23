@@ -1,0 +1,45 @@
+id,name,city,region_or_state,country,type,ownership,access_tier,first_appearance,sensory_file,skill_reference,notes
+phoenix_hollow,Phoenix Hollow Compound,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,prose/places/phoenix_hollow.md,worldguide-keeneland,~500 acres; ~$56M; 50+ room main house + 8 guest cottages; sleeps ~60 overnight; primary home for Rosie/Homer; Alex's home base; private gate is the line; Summer/Winter Solstice venue — see prose/setpieces/solstice_party.md
+wilson_sound_studio,Wilson Sound Studio,Versailles,Woodford County KY,USA,studio,wilson_family_owned,compound_only,,,,~2400sqft; Neve console; Homer-designed acoustics; built 1982; 2-3 min walk from main house; never gone quiet
+phoenix_hollow_cottage_stone,Stone House Guest Cottage,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Most private cottage; for working artists; isolation focus; one of eight guest cottages
+phoenix_hollow_cottage_creek,Creek Cottage,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Stevie Nicks's preferred cottage; near the water; quieter than others; one of eight guest cottages
+phoenix_hollow_cottage_ridge,Ridgeline Cottage,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Dolly Parton's favourite; higher ground; views over the paddocks; one of eight guest cottages
+phoenix_hollow_cottage_new,The New Place Guest Cottage,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Most modern of the eight guest cottages
+phoenix_hollow_cottage_dogwood,Dogwood Cottage,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Closest cottage to main house; smaller/family-scale; Cosima's go-to when she doesn't want the main suite; one of eight guest cottages
+phoenix_hollow_cottage_pond,Pond House,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Overlooks the pond; songwriter-favourite; very quiet; porch over the water; one of eight guest cottages
+phoenix_hollow_cottage_paddock,The Paddock Cottage,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Near the equestrian center; used for horse-crowd guests during Keeneland weeks — owners, trainers, bloodstock agents; one of eight guest cottages
+phoenix_hollow_cottage_oakhill,Oak Hill Cottage,Versailles,Woodford County KY,USA,compound,wilson_family_owned,compound_only,,,,Oldest structure on the property; 1880s tenant farmer's house, preserved and quietly renovated; where Willie lands when he's through; one of eight guest cottages
+west_71st_nyc,West 71st Street Townhouse,New York City,New York,USA,townhouse,wilson_family_owned,inner_circle,,prose/places/west_71st_nyc.md,,6-story brownstone; ~14000sqft; 8 bed; ~$22M; UWS; 5 blocks from Lincoln Center; AW Assets
+kensington_london,Kensington Townhouse,London,Greater London,UK,townhouse,wilson_family_owned,inner_circle,,prose/places/kensington.md,,Upper Phillimore Gardens W8; double-fronted Victorian; 6 floors; ~£37M; Homer's house; AW Assets
+villa_serena,Villa Serena,Porto Cervo,Sardinia,Italy,villa,wilson_family_owned,inner_circle,,prose/places/villa_serena.md,worldguide-sardinia,Costa Smeralda; 4 hectares; private cove; ~$70M; 5 guest pavilions; AW Assets; no pap access to cove
+laurel_canyon_la,Laurel Canyon House,Los Angeles,California,USA,compound,wilson_family_owned,inner_circle,,prose/places/laurel_canyon.md,,Mid-century modernist; ~$45M; Walker Holdings; Rosie/Homer 1967-1980; home studio; where The Circle formed
+fletching_park,Fletching Park,Haywards Heath,East Sussex,UK,compound,leased_regularly,invite_only,,,,2800 acres; Earl of Fletching seat since 1690s; Georgian house; Alex visited twice; maternal grandfather's estate
+hatfield_distillery,Hatfield Distillery,Bardstown,Nelson County KY,USA,compound,industry,vip_bookable,,,,Original Hatfield whiskey distillery; Homer's 1978 origin; cave programme; Carolyn Hatfield-Moore
+hatfield_still_house,Hatfield Still House,Bardstown,Nelson County KY,USA,restaurant,industry,vip_bookable,,,,James Beard Award restaurant; Marcus Boyle; Bardstown fine dining; bourbon pairing
+hatfield_lexington,Hatfield Bar & Grill — Lexington,Lexington,Woodford County KY,USA,restaurant,industry,public,,,,Flagship Hatfield B&G; local Sayre Boys venue; bourbon programme
+hatfield_stave_london,The Stave (London),Soho,Greater London,UK,club,industry,member_only,,,,Homer-specified listening room; Quad electrostatics; most perfect club listening room in London
+hatfield_stave_nyc,The Stave (NYC),Tribeca,New York,USA,club,industry,member_only,,prose/places/the_stave_nyc.md,,NYC outpost of The Stave private members club; Tribeca (Franklin St); Homer-specified listening room; Étienne Moreau Exec Chef; 400-member cap
+hatfield_inns_bardstown,Hatfield Inn — Bardstown,Bardstown,Nelson County KY,USA,hotel,industry,vip_bookable,,,,Boutique Hatfield Inn; bourbon integration; 8-hotel chain anchor
+hatfield_inns_lexington,Hatfield Inn — Lexington,Lexington,Woodford County KY,USA,hotel,industry,vip_bookable,,,,Hatfield Inn; Woodford County base
+hatfield_inns_london,Hatfield Inn — London,London,Greater London,UK,hotel,industry,vip_bookable,,,,Hatfield Inn; London outpost; bourbon programme
+keeneland,Keeneland Race Course,Lexington,Woodford County KY,USA,racecourse,public,public,,prose/places/keeneland.md,worldguide-keeneland,Two meets/year (spring/fall); ~600M annual economic impact; Alex grew up attending; Keeneland Club members-only
+carnegie_hall,Carnegie Hall,New York City,New York,USA,venue,public,public,,,,Alex performed Oct 2025; Juilliard world; ~2804 seats; one of world's great concert halls
+wigmore_hall,Wigmore Hall,London,Greater London,UK,venue,public,public,,,,Alex performed Dec 2025; classical music's most intimate major venue; London's Juilliard equivalent
+royal_albert_hall,Royal Albert Hall,London,Greater London,UK,venue,public,public,,,,5272 capacity; Proms etc; Alex's future London concert possibility
+juilliard_school,The Juilliard School,New York City,New York,USA,school,industry,public,,,,Lincoln Center campus; Alex's BM 2022-2025; Dr. Marlowe; John Erskine Prize
+royal_academy_of_music,Royal Academy of Music,London,Greater London,UK,school,industry,public,,,,RAM; Alex's junior year exchange 2023-24; Homer lectures here; Alex's London formation
+sayre_school,Sayre School,Lexington,Woodford County KY,USA,school,industry,public,,,,Alex's K-10 school; Sayre Boys formed here; Woodford County elite school
+westminster_school,Westminster School,London,Greater London,UK,school,industry,public,,,,Alex's sixth form 2019-2021; Jonathan/Lucas Dawson connection; Westminster Boys chat origin
+glastonbury,Glastonbury Festival,Pilton,Somerset,UK,festival_site,public,public,,prose/places/glastonbury.md,real-world-reference,Alex's birthday June 22 2025; crowd absorption disperses pap pack; 200000 attendees; Tipi Suites access
+zero_bond,Zero Bond,New York City,New York,USA,club,frequented,member_only,,,,NYC private members club; Alex's downtown social life; Juilliard/celebrity crossover
+annabels,Annabel's,London,Greater London,UK,club,frequented,member_only,,,,Berkeley Square; London's pre-eminent private members club; London Lot social anchor
+chiltern_firehouse,Chiltern Firehouse,London,Greater London,UK,hotel,frequented,vip_bookable,,,,Marylebone; restaurant and hotel; London celebrity circuit; not Alex's default but occasional
+casa_cipriani_ny,Casa Cipriani,New York City,New York,USA,club,frequented,member_only,,,,Governors Island private members club; NY social infrastructure
+la_terrazza_porto_cervo,La Terrazza Restaurant,Porto Cervo,Sardinia,Italy,restaurant,frequented,public,,,,Physical anchor of summer social world; where the La Terrazza chat gets its name; staff know everyone
+billboards_ibiza,Ibiza Town/Sant Antoni club circuit,Ibiza Town,Ibiza,Spain,venue,frequented,vip_bookable,,worldguide-european-summer,Ibiza summer circuit; Edo's world; medium pap situation; villa hills give cover
+guards_polo_club,Guards Polo Club,Windsor,Berkshire,UK,venue,frequented,member_only,,,,August polo season; where Alex played Aug 2025; royal/aristocratic world; Hugo Manners crossover
+sayre_lake_house,Herrington Lake House,Herrington Lake,Mercer County KY,USA,compound,frequented,inner_circle,,,,Crawford family lake house; standing tradition; poker/fishing/horses; Tommy/Sayre Boys territory
+cahill_farm,Cahill Farm,Woodford County,Kentucky,USA,compound,frequented,inner_circle,,,,Sayre Boys territory; lake weekends; bourbon country backdrop
+metropolitan_museum,Metropolitan Museum of Art,New York City,New York,USA,gallery,public,public,,,,Met Gala venue; Alex is 2026 co-chair; Young Met Board member; annual Met Gala since age 10
+teterboro,Teterboro Airport,Teterboro,New Jersey,USA,airport,frequented,private,,real-world-reference,NYC private aviation hub; Alex's departures from NYC
+farnborough,Farnborough Airport,Farnborough,Hampshire,UK,airport,frequented,private,,real-world-reference,London private aviation hub; Alex's UK departures

@@ -1,0 +1,63 @@
+from_id,to_id,relation_type,since,strength,information_access,notes
+alex_wilson,rosie_walker,parent,2003-06-22,5,full_insider,Legal mother; raised from birth; calls her Mama
+alex_wilson,homer_wilson,parent,2003-06-22,5,full_insider,Legal father; raised from birth; calls him Papa or Dad
+alex_wilson,eleanor_vance,professional_advisor,birth,4,full_insider,Childhood family friend; manages his world since birth; he trusts her completely
+alex_wilson,tommy_crawford,best_friend,2009,5,full_insider,Best friend since kindergarten; no performance; 21 years of shorthand; T-Bone
+alex_wilson,elton_john,godparent,2003-06-22,3,partial_insider,Godfather; decades-long Rosie/Homer friend; periodic compound; loud-affection elder
+alex_wilson,chris_martin,godparent,2003-06-22,3,partial_insider,Godfather; Apple's father; low-drama practical; intermittent but stable family contact
+alex_wilson,donatella_versace,godparent,2003-06-22,3,partial_insider,Godmother; calls him Alexander; high-conviction aesthetic authority; Milan-fashion channel
+alex_wilson,stella_mccartney,godparent,2003-06-22,3,partial_insider,Godmother; Stella McCartney fashion house; values-forward style advisor; London-based
+alex_wilson,apple_martin,sibling_close,birth,4,partial_insider,God-sister; sibling-close NOT romantic; born May 14 2004; Sardinia connection; normalizes the summer world for Alex
+alex_wilson,moses_martin,sibling_close,birth,2,partial_insider,God-sibling; Chris/Gwyneth's son; god-siblings chat member
+alex_wilson,zachary_furnish_john,sibling_close,2010,2,partial_insider,God-sibling; Elton's son; god-siblings chat member
+alex_wilson,elijah_furnish_john,sibling_close,2013,2,partial_insider,God-sibling; Elton's son; god-siblings chat member
+alex_wilson,cody_ashford,best_friend,2009,3,partial_insider,Sayre Boys core; high-volume catalyst; Woodford County; maintained through London/NY years
+alex_wilson,jake_patterson,best_friend,2009,3,partial_insider,Sayre Boys core; logistics-first; horse/land expertise; minimal communication
+alex_wilson,danny_harlan,best_friend,2009,3,partial_insider,Sayre Boys core; dry irony; arrives late with exact perfect line
+alex_wilson,nadia_hassani,professional_advisor,2024,4,full_insider,EA; manages all logistics; London-based; Eleanor hired her; daily operational partner
+alex_wilson,kevin_marsh,professional_advisor,2023,3,full_insider,CPO; ex-USSS; 2 years together; separate basement room in NYC townhouse; knows Alex's movements
+alex_wilson,sophie_kalu,professional_advisor,2025-01,3,partial_insider,PA; hired early 2025 under Nadia; Nigerian-British; operational support
+alex_wilson,james_latham,professional_advisor,2025-06,3,partial_insider,Head of AL.X; manages all inbound; enforces blacklist; Scooter banned; ZERO chat access
+alex_wilson,maria_santos,family_friend,birth,4,full_insider,Compound chef; knows Alex since childhood; family-level warmth
+alex_wilson,dale_shackleford,family_friend,birth,3,full_insider,Estate manager; compound institution; Woodford County family connection
+alex_wilson,loretta_mae,family_friend,birth,3,full_insider,Compound household manager; Rosie/Homer PA; maternal warmth
+alex_wilson,jim_crawford,family_friend,childhood,3,partial_insider,Tommy's father; father figure to Alex; no performative awe; Crawford Construction
+alex_wilson,darlene_crawford,family_friend,childhood,3,partial_insider,Tommy's mother; fed Alex approximately 10000 meals; practical maternal warmth
+alex_wilson,richard_dawson,family_friend,2019,2,public_only,Maternal grandfather; Earl of Fletching; Westminster reconnection age 16; measured relationship
+alex_wilson,margaret_dawson,family_friend,2019,2,public_only,Maternal grandmother; Countess; asks about Rosie; holds Dawson emotional architecture
+alex_wilson,jonathan_dawson,family_friend,2019,3,partial_insider,First cousin; Westminster School; measured affection; Dawson Cousins chat anchor
+alex_wilson,lucas_ashby,family_friend,2019,3,partial_insider,First cousin once removed; easier friendship; Notting Hill; warmest Dawson connection; texts more than Jonathan
+alex_wilson,brandi_carlile,mentor,childhood,3,partial_insider,Annual compound residency; like older sister; practical modern-career mentor; craft-specific coaching
+alex_wilson,stevie_nicks,mentor,birth,3,partial_insider,De facto aunt/godmother figure; Phoenix Hollow Circle; story-led artistic elder
+alex_wilson,dolly_parton,mentor,birth,3,partial_insider,De facto aunt; blunt practical counsel; grounded craft elder
+alex_wilson,beyonce,industry_peer,childhood,2,partial_insider,Phoenix Hollow Circle; strategic clarity; sparse presence but significant when she appears
+alex_wilson,adele,industry_peer,childhood,2,partial_insider,Phoenix Hollow Circle; blunt warmth; wrote half of 25 at compound
+alex_wilson,lady_gaga,industry_peer,childhood,2,partial_insider,Phoenix Hollow Circle; story-first framework; conceptual presence
+alex_wilson,taylor_swift,industry_peer,childhood,2,partial_insider,Phoenix Hollow Circle; ghost/lurker in Summer House chat; not close personally
+alex_wilson,paul_mccartney,mentor,birth,2,partial_insider,Long-view musical benchmark; quiet validator; compound visits
+alex_wilson,joni_mitchell,mentor,birth,2,partial_insider,High-rigor artistic truth voice; Rosie's peer; occasional compound presence
+alex_wilson,david_gilmour,family_friend,birth,2,partial_insider,Homer's closest friend; Pink Floyd; craft-first minimal talker
+alex_wilson,dr_catherine_marlowe,mentor,2022-09,3,partial_insider,Juilliard piano professor; John Erskine Prize; "Best undergraduate recital in twenty years"
+alex_wilson,dr_amara_osei,mentor,2022-09,2,partial_insider,Juilliard voice faculty; pushing Alex toward voice training post-graduation
+alex_wilson,nora_yoon,best_friend,2022-09,3,partial_insider,Juilliard peer; real friend; Korean-American; direct musical honesty; NY Lot
+alex_wilson,marcus_delacroix,best_friend,2022-09,3,partial_insider,Juilliard peer; nightlife energy; all-caps NYC summons; NY Lot
+alex_wilson,freddie_ashworth,best_friend,2019,3,partial_insider,Westminster School peer; London Lot execution engine; Thursday plans
+alex_wilson,jess_okonkwo,best_friend,2019,3,partial_insider,Westminster/London peer; music discovery voice; Wigmore-adjacent
+alex_wilson,cosima_hicks,best_friend,2019,3,partial_insider,Artist; sculptor; London Lot; made Sound & Bone piece for Alex's NYC bedroom
+alex_wilson,hugo_manners,best_friend,2019,3,partial_insider,Westminster peer; London Lot country/polo lane; Guards Polo Club world
+alex_wilson,tommaso_corsini,best_friend,2023,3,partial_insider,La Terrazza anchor; Milan/Sardinia; genuine peer friendship; authentic
+alex_wilson,edo_ferretti,best_friend,2023,2,partial_insider,La Terrazza chaos anchor; DJ/promoter; Ibiza/Sardinia connection
+alex_wilson,camille_aubert,industry_peer,2023,2,partial_insider,Parisian gallerist; La Terrazza; connects Alex to art world perspective
+alex_wilson,lucia_montero,best_friend,2023,2,partial_insider,La Terrazza; sharp/political; genuine intellectual friendship
+alex_wilson,vittoria_ceretti,confirmed_hookup,2025-07,1,public_only,Confirmed hookup Sardinia July/Aug 2025; Daily Mail front page
+alex_wilson,taylor_russell,confirmed_hookup,2025-10,1,partial_insider,Carnegie Hall after-party Oct 2025; one_photo evidence; Page Six
+alex_wilson,hunter_schafer,rumored_hookup,2025-09,1,partial_insider,Paris Fashion Week Sept 2025; strongly_suspected; DeuxMoi sourced
+alex_wilson,addison_rae,rumored_hookup,2025-09,1,partial_insider,NYC-Paris FW Sept 2025; strongly_suspected; DeuxMoi sourced
+alex_wilson,alix_earle,rumored_hookup,2025-07,1,public_only,Ibiza July 2025; rumor only; DeuxMoi sourced
+alex_wilson,dove_cameron,rumored_hookup,2025-06,1,public_only,London June 2025; rumor only; DeuxMoi sourced
+rosie_walker,homer_wilson,parent,1970,5,full_insider,Married 1971; met Abbey Road 1970; 55 years together; the greatest partnership
+rosie_walker,eleanor_vance,family_friend,1985,4,full_insider,Niece figure; Margaret Vance's daughter; Rosie calls her "my niece"; complete trust
+rosie_walker,elton_john,collaborator,1970,4,partial_insider,Phoenix Hollow Circle; decades friendship; godparent to Alex; Circle anchor
+rosie_walker,david_gilmour,collaborator,1970,3,partial_insider,Pink Floyd connection through Homer; Phoenix Hollow presence
+homer_wilson,elton_john,collaborator,1973,3,partial_insider,Engineered Honky Château and Goodbye Yellow Brick Road; Phoenix Hollow Circle
+homer_wilson,david_gilmour,best_friend,1970,4,partial_insider,Closest friend; Pink Floyd Pink Floyd Floyd work; writes letters; annual visits

@@ -1,0 +1,161 @@
+person_id,chat_id,chat_name,posting_frequency,tone_note
+alex_wilson,fam,FAM — Family,high,Daily check-in; reacts quickly to Rosie; answers Eleanor directly; no performance register
+rosie_walker,fam,FAM — Family,high,Sets emotional texture; dawn garden photos; short song lines; irregular porch voice notes
+homer_wilson,fam,FAM — Family,low,Goes silent for days then returns with dry non-sequiturs; low-frequency signal
+eleanor_vance,fam,FAM — Family,medium,Logistics and decisions; clear yes/no asks; warmth appears briefly around milestones
+alex_wilson,sayre_boys,SB — Sayre Boys,high,Bridge between worlds; very active; matches local cadence; drops out-of-context global details
+tommy_crawford,sayre_boys,SB — Sayre Boys,high,Compression + punchlines; short replies; dry escalation; would rather be mauled by horse than admit he reads Phoenix Hollow chat
+cody_ashford,sayre_boys,SB — Sayre Boys,high,High-volume catalyst; multi-text bursts; all-caps when excited
+jake_patterson,sayre_boys,SB — Sayre Boys,low,Posts rarely; horses/land/transport specifics; logistics-first
+danny_harlan,sayre_boys,SB — Sayre Boys,medium,Arrives after reading full thread; lands exact understated line; late precision
+alex_wilson,london_lot,LL — London Lot,medium,Amplifies activity when physically in London; dry understatement; plan-confirming energy
+freddie_ashworth,london_lot,LL — London Lot,high,Execution engine; suggests plan; converts vague interest into attendance
+hugo_manners,london_lot,LL — London Lot,medium,Country/polo lane activator; activates countryside branch
+cosima_hicks,london_lot,LL — London Lot,medium,Art/culture selector; dry tone; often early/right on trends
+jess_okonkwo,london_lot,LL — London Lot,medium,Music discovery; RAM-adjacent curation; Wigmore-adjacent
+jonathan_dawson,london_lot,LL — London Lot,low,Low-frequency anchor; complete sentences; reflective posts; quieter end of LL
+lucas_ashby,london_lot,LL — London Lot,medium,Casual warmth; architecture enthusiasm; faster social response than Jonathan
+raye,london_lot,LL — London Lot,medium,British music energy; gig/event focused
+stormzy,london_lot,LL — London Lot,low,Grime authority; low frequency when he appears it matters
+central_cee,london_lot,LL — London Lot,low,UK rap; low frequency
+tom_holland,london_lot,LL — London Lot,medium,British actor; London base; social presence
+florence_pugh,london_lot,LL — London Lot,medium,British actress; London social life; active in LL when home
+paul_mescal,london_lot,LL — London Lot,low,Irish actor; London-adjacent; occasional presence
+iris_law,london_lot,LL — London Lot,medium,Creative/photographer; art world London connection
+lila_moss,london_lot,LL — London Lot,medium,Fashion world; Kate's daughter; London social anchor
+lady_amelia_windsor,london_lot,LL — London Lot,medium,Aristocratic fashion; royal-adjacent; London Season anchor
+olympia_of_greece,london_lot,LL — London Lot,medium,Greek/Danish royal; London/NY crossover; fashion presence
+alex_wilson,westminster_boys,WB — Westminster Boys,medium,Routinely mocked for American angle; belongs fully; inside-joke register
+freddie_ashworth,westminster_boys,WB — Westminster Boys,high,Core voice; Westminster 2019-2021 cohort; laddish roast energy
+hugo_manners,westminster_boys,WB — Westminster Boys,high,Core voice; polo/country references; school-specific callbacks
+alex_wilson,ny_lot,NYL — New York Lot,medium,Active but not usually the originator; downtown momentum energy
+marcus_delacroix,ny_lot,NYL — New York Lot,high,Declarative nightlife launch; all-caps summons energy; 9PM NOT OPTIONAL
+nora_yoon,ny_lot,NYL — New York Lot,medium,Culture-program proposer; concerts/recitals over generic drinks; Juilliard anchor
+derrick_washington,ny_lot,NYL — New York Lot,low,Late-night specialist; appears after 10pm; studio sessions
+sasha_volkov,ny_lot,NYL — New York Lot,low,Low frequency; concise interest signals; violin world
+jin_park,ny_lot,NYL — New York Lot,low,Terse progress updates; cellist world
+henry_cabot,ny_lot,NYL — New York Lot,medium,Table access and venue leverage; hosts with social capital
+sam_okafor,ny_lot,NYL — New York Lot,medium,Bridge node between Juilliard and club ecosystems
+timothee_chalamet,ny_lot,NYL — New York Lot,low,French-American; downtown NYC crossover; piano player energy
+zoe_kravitz,ny_lot,NYL — New York Lot,low,Zero Bond crowd; Legacy Admissions crossover
+alex_wilson,legacy_admissions,LA — Legacy Admissions,medium,Stabilizing voice; crisis handling moves to DM; self-aware funny about inherited absurdity
+apple_martin,legacy_admissions,LA — Legacy Admissions,high,Core daily energy; Chris/Gwyneth's daughter; normalizing summer world for Alex
+lila_moss,legacy_admissions,LA — Legacy Admissions,medium,Fashion world legacy; Kate's daughter
+rocco_ritchie,legacy_admissions,LA — Legacy Admissions,low,Madonna/Guy's son; own summer circuit; lower frequency
+iris_law,legacy_admissions,LA — Legacy Admissions,medium,Creative world; Jude's daughter
+maya_hawke,legacy_admissions,LA — Legacy Admissions,medium,Uma/Ethan's daughter; Hudson Valley/LA crossover
+lennon_gallagher,legacy_admissions,LA — Legacy Admissions,medium,Liam's son; fashion/music world; British base
+anais_gallagher,legacy_admissions,LA — Legacy Admissions,medium,Noel's daughter; fashion world; British base
+damian_hurley,legacy_admissions,LA — Legacy Admissions,medium,Elizabeth's son; British model/actor
+kaia_gerber,legacy_admissions,LA — Legacy Admissions,medium,Cindy's daughter; LA/NY crossover; model world
+jack_schlossberg,legacy_admissions,LA — Legacy Admissions,low,JFK's grandson; political/cultural legacy; seasonal tourist energy
+zoe_kravitz,legacy_admissions,LA — Legacy Admissions,low,Lenny's daughter; NY base; Legacy crossover
+timothee_chalamet,legacy_admissions,LA — Legacy Admissions,low,Considered legacy-adjacent through French artistic family; occasional presence
+alex_wilson,summer_house,SH — Summer House,medium,Confirms plans Nadia has prepped; medium-chaos energy; seasonal peak
+apple_martin,summer_house,SH — Summer House,high,Core presence; god-sister; Sardinia anchor
+lila_moss,summer_house,SH — Summer House,high,Location switchboard; tracks where people actually are
+rocco_ritchie,summer_house,SH — Summer House,medium,Has own circuit; overlaps Glastonbury and European stops
+iris_law,summer_house,SH — Summer House,medium,Creative world; summer circuit presence
+lady_amelia_windsor,summer_house,SH — Summer House,medium,Young Royals tier; aristocratic fashion presence
+samuel_chatto,summer_house,SH — Summer House,low,Young Royals tier; low-key artist; periodic presence
+arthur_chatto,summer_house,SH — Summer House,low,Young Royals tier; lower presence
+lennon_gallagher,summer_house,SH — Summer House,medium,British summer circuit; fashion/music world
+anais_gallagher,summer_house,SH — Summer House,medium,British summer circuit; fashion world
+damian_hurley,summer_house,SH — Summer House,medium,British summer circuit; model/actor
+maya_hawke,summer_house,SH — Summer House,medium,Legacy bridge; Hudson Valley/LA/European crossover
+timothee_chalamet,summer_house,SH — Summer House,low,NY/London extras tier; seasonal overlap
+barry_keoghan,summer_house,SH — Summer House,low,Irish actor; NY/London extras; seasonal
+freddie_ashworth,summer_house,SH — Summer House,medium,London Lot bridge into Summer House; summer plans
+nora_yoon,summer_house,SH — Summer House,low,Juilliard crossover; summer circuit when in Europe
+marcus_delacroix,summer_house,SH — Summer House,low,Juilliard crossover; summer circuit when relevant
+jacob_elordi,summer_house,SH — Summer House,medium,Core voice; minimal post maximal effect; seasonal peak
+emma_chamberlain,summer_house,SH — Summer House,high,High-volume chaos accelerator; spiral posting style
+sabrina_carpenter,summer_house,SH — Summer House,medium,Sharp thread closer; fast last-word tendency
+jenna_ortega,summer_house,SH — Summer House,low,Low-frequency impact; single-line dry hits
+tommaso_corsini,summer_house,SH — Summer House,medium,La Terrazza bridge into Summer House; Sardinia logistics
+edo_ferretti,summer_house,SH — Summer House,medium,Ibiza/summer energy; chaos accelerator in peak periods
+camille_aubert,summer_house,SH — Summer House,low,Paris-side; seasonal summer presence
+zendaya,summer_house,SH — Summer House,ghost_only,Ghost/lurker; high-signal when she rarely posts
+taylor_swift,summer_house,SH — Summer House,ghost_only,Ghost/lurker; presence acknowledged by others
+beyonce,summer_house,SH — Summer House,ghost_only,Ghost/lurker; rare appearance; room-shifting energy
+olivia_rodrigo,summer_house,SH — Summer House,low,Seasonal tourist; summer circuit overlap
+jeremy_allen_white,summer_house,SH — Summer House,low,Seasonal tourist; London/NYC overlap
+austin_butler,summer_house,SH — Summer House,low,Seasonal tourist; occasional presence
+princess_maria_olympia,summer_house,SH — Summer House,medium,Young Royals tier; Greek/Danish royal; fashion world
+princess_alexia,summer_house,SH — Summer House,low,Young Royals tier; Dutch royal; lower presence
+achileas_of_greece,summer_house,SH — Summer House,medium,Young Royals tier; Greek/Danish; Mediterranean circuit
+olympia_of_greece,summer_house,SH — Summer House,medium,Young Royals tier; London/NY crossover; fashion
+naomi_campbell,summer_house,SH — Summer House,low,Fashion week bridge; Glastonbury presence; periodic appearance
+harry_styles,summer_house,SH — Summer House,low,Summer circuit crossover; periodic presence
+dua_lipa,summer_house,SH — Summer House,low,Summer circuit crossover; periodic presence
+florence_pugh,summer_house,SH — Summer House,medium,British Power Anchor; London summer circuit
+anya_taylor_joy,summer_house,SH — Summer House,low,British-Argentine; summer circuit crossover
+paul_mescal,summer_house,SH — Summer House,medium,Irish actor; British Power Anchor
+tom_holland,summer_house,SH — Summer House,medium,British actor; British Power Anchor
+stormzy,summer_house,SH — Summer House,low,Glastonbury/summer circuit presence; British Power Anchor
+central_cee,summer_house,SH — Summer House,low,UK rap; British Power Anchor; seasonal
+raye,summer_house,SH — Summer House,medium,British music; summer circuit; Glastonbury connection
+alex_wilson,la_terrazza,LT — La Terrazza,medium,More expansive in Italian-register exchanges; genuine peer in this world
+tommaso_corsini,la_terrazza,LT — La Terrazza,high,Anchor; consistency; architecture/food/travel blend; calm planner
+edo_ferretti,la_terrazza,LT — La Terrazza,medium,Late-night instigator; improbable plans that often execute
+camille_aubert,la_terrazza,LT — La Terrazza,medium,Aesthetic/editorial lens; dry precision; Paris-side filtering
+lucia_montero,la_terrazza,LT — La Terrazza,medium,Political/intellectual edge; brings links/opinions/questions from Madrid
+felix_arnoult,la_terrazza,LT — La Terrazza,medium,Wine/food/history enthusiasm; concrete specificity over persona gimmick
+giulia_agnelli,la_terrazza,LT — La Terrazza,low,Fashion-world intermittent presence; in-and-out; low-fuss; Tommaso-connected
+alex_wilson,dawson_cousins,DC — Dawson Cousins,low,Present without forcing intensity; shows care by showing up; London overlap triggers
+jonathan_dawson,dawson_cousins,DC — Dawson Cousins,medium,Initiator and continuity; formal grammar; quiet warmth; chat existence part of repair
+lucas_ashby,dawson_cousins,DC — Dawson Cousins,medium,Faster social response; casual warmth; architecture enthusiasm
+beatrice_dawson,dawson_cousins,DC — Dawson Cousins,low,Edinburgh counterpoint; sardonic/direct; lower posting frequency
+rosie_walker,phoenix_hollow,PH — Phoenix Hollow,high,Centre of gravity; sets tone; primary social architect of the space
+homer_wilson,phoenix_hollow,PH — Phoenix Hollow,medium,Backbone presence; studio updates; compound logistics; occasional dry non-sequiturs
+eleanor_vance,phoenix_hollow,PH — Phoenix Hollow,low,Family-adjacent continuity; family business; operational information
+alex_wilson,phoenix_hollow,PH — Phoenix Hollow,medium,Family presence; active but not dominant; genuine compound member
+tommy_crawford,phoenix_hollow,PH — Phoenix Hollow,read_only,Has never once posted; reads every message; would rather be mauled by horse than admit it
+elton_john,phoenix_hollow,PH — Phoenix Hollow,medium,Circle anchor; loud-affection energy; periodic compound posts; declares things
+stevie_nicks,phoenix_hollow,PH — Phoenix Hollow,medium,Image-rich reflective phrasing; unhurried narrative arcs; emotional continuity
+dolly_parton,phoenix_hollow,PH — Phoenix Hollow,medium,Warm plainspoken directness; affectionate address; Nashville thread anchor
+paul_mccartney,phoenix_hollow,PH — Phoenix Hollow,low,Long-view minimal posts; often photos with no captions; intermittent high-impact
+david_gilmour,phoenix_hollow,PH — Phoenix Hollow,low,Work-over-words; craft-specific; Homer-adjacent presence
+joni_mitchell,phoenix_hollow,PH — Phoenix Hollow,low,Less frequent but major-presence; high-rigor artistic truth; Rosie's peer
+brandi_carlile,phoenix_hollow,PH — Phoenix Hollow,medium,Contemporary bridge generation; actively mentoring; practical modern-career voice
+beyonce,phoenix_hollow,PH — Phoenix Hollow,low,Sparse weighted lines; strategic clarity; low frequency high significance
+adele,phoenix_hollow,PH — Phoenix Hollow,low,Blunt warmth; occasional appearances; wrote half of 25 at compound
+lady_gaga,phoenix_hollow,PH — Phoenix Hollow,low,Conceptual but concrete; framework language; crisp idea-dense when present
+taylor_swift,phoenix_hollow,PH — Phoenix Hollow,low,Inner Circle status; relatively low-frequency in PH chat; masters advice recipient
+chris_martin,phoenix_hollow,PH — Phoenix Hollow,low,Low-drama practical; intermittent family contact; Apple's father
+stella_mccartney,phoenix_hollow,PH — Phoenix Hollow,low,Style authority; periodic posts; London-based
+donatella_versace,phoenix_hollow,PH — Phoenix Hollow,low,High-conviction aesthetic commands; Milan-centric; Italian fashion authority
+bruce_springsteen,phoenix_hollow,PH — Phoenix Hollow,low,Legacy anchor; periodic presence; compound visitor
+jack_white,phoenix_hollow,PH — Phoenix Hollow,low,Compound residency visits; studio-focused
+alicia_keys,phoenix_hollow,PH — Phoenix Hollow,low,Homer-produced album connection; compound visits
+billie_eilish,phoenix_hollow,PH — Phoenix Hollow,low,Contemporary generation crossover; compound visitor
+harry_styles,phoenix_hollow,PH — Phoenix Hollow,low,British fashion/music crossover; world stage presence
+kate_moss,phoenix_hollow,PH — Phoenix Hollow,low,Legacy parent tier; Lila's mother; occasional presence
+david_beckham,phoenix_hollow,PH — Phoenix Hollow,low,Global crossover; fashion and sports world; compound visits; couple presence
+victoria_beckham,phoenix_hollow,PH — Phoenix Hollow,low,Fashion authority; VB label founder; design world; compound visits; couple presence
+madonna,phoenix_hollow,PH — Phoenix Hollow,low,Legacy parent tier; Rocco's mother; icon presence
+jude_law,phoenix_hollow,PH — Phoenix Hollow,low,Legacy parent tier; Iris's father; actor world
+gwyneth_paltrow,phoenix_hollow,PH — Phoenix Hollow,low,Legacy parent tier; Apple's mother; Goop/wellness adjacent
+lenny_kravitz,phoenix_hollow,PH — Phoenix Hollow,low,Music world; Apple's godfather; compound visitor
+lila_moss,phoenix_hollow,PH — Phoenix Hollow,low,Legacy Core; Phoenix Hollow member; summer circuit crossover
+rocco_ritchie,phoenix_hollow,PH — Phoenix Hollow,low,Legacy Core; Phoenix Hollow member; own summer circuit
+iris_law,phoenix_hollow,PH — Phoenix Hollow,low,Legacy Core; Phoenix Hollow member; creative/art world
+lady_amelia_windsor,phoenix_hollow,PH — Phoenix Hollow,low,Legacy Core; Phoenix Hollow member; aristocratic fashion
+samuel_chatto,phoenix_hollow,PH — Phoenix Hollow,low,Legacy Core; Phoenix Hollow member; Princess Margaret connection
+arthur_chatto,phoenix_hollow,PH — Phoenix Hollow,low,Legacy Core; Phoenix Hollow member; low-key presence
+barack_obama,phoenix_hollow,PH — Phoenix Hollow,ghost_only,Low-frequency; when he posts the room shifts; compound visitor presence
+michelle_obama,phoenix_hollow,PH — Phoenix Hollow,ghost_only,Low-frequency; public figures tier; compound visitor
+chad_smith,phoenix_hollow,PH — Phoenix Hollow,medium,Nashville Backbone; session work at compound; operational chat texture
+steve_jordan,phoenix_hollow,PH — Phoenix Hollow,medium,Nashville Backbone; Rolling Stones touring drummer; session work
+pino_palladino,phoenix_hollow,PH — Phoenix Hollow,medium,Nashville Backbone; session bassist; compound sessions
+paul_franklin,phoenix_hollow,PH — Phoenix Hollow,medium,Nashville Backbone; steel guitar; Nashville institution
+maria_santos,phoenix_hollow,PH — Phoenix Hollow,low,Nashville Backbone; compound chef; mentioned more than she posts (her food is legend)
+dale_shackleford,phoenix_hollow,PH — Phoenix Hollow,low,Nashville Backbone; estate manager; compound logistics
+tyrone_lebon,summer_house,SH — Summer House,low,Editorial photographer; rarely posts; occasional Milan/Paris presence noted
+cass_bird,summer_house,SH — Summer House,ghost_only,NY-based; follows; documents when present; never posts
+morgan_maassen,summer_house,SH — Summer House,low,Seasonal July-August; surf/boat texture; occasional photo drop
+campbell_addy,summer_house,SH — Summer House,medium,London crossover; Burberry-adjacent; European summer when work permits
+ibrahim_kamara,summer_house,SH — Summer House,low,Milan/Paris circuit; professional orbit with social crossover
+lotta_volkova,summer_house,SH — Summer House,low,Paris-based; rare posts; physically present more than digitally active
+dovile_drizyte,summer_house,SH — Summer House,ghost_only,Industry infrastructure; follows; never posts; knows everyone
+ice_spice,summer_house,SH — Summer House,low,Seasonal tourist; July-August peak; Bronx/NYC energy
